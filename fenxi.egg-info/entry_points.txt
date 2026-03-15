@@ -1,0 +1,2 @@
+[console_scripts]
+fenxi = fenxi.__main__:main
