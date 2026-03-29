@@ -1,0 +1,12 @@
+[
+  {"city": "北京", "population": 21542000, "gdp_billion": 4027, "area_km2": 16410},
+  {"city": "上海", "population": 24870000, "gdp_billion": 4761, "area_km2": 6340},
+  {"city": "广州", "population": 18670000, "gdp_billion": 2822, "area_km2": 7434},
+  {"city": "深圳", "population": 17560000, "gdp_billion": 3240, "area_km2": 1997},
+  {"city": "成都", "population": 20940000, "gdp_billion": 2001, "area_km2": 14335},
+  {"city": "杭州", "population": 12200000, "gdp_billion": 1875, "area_km2": 16853},
+  {"city": "武汉", "population": 13200000, "gdp_billion": 1791, "area_km2": 8569},
+  {"city": "西安", "population": 13000000, "gdp_billion": 1073, "area_km2": 10108},
+  {"city": "南京", "population": 9314000,  "gdp_billion": 1850, "area_km2": 6587},
+  {"city": "天津", "population": 13600000, "gdp_billion": 1567, "area_km2": 11966}
+]
